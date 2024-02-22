@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Change 1 in branch2" 
+=======
+"Change 1 in branch1" 
+>>>>>>> branch1
