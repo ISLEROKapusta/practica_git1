@@ -1,1 +1,1 @@
-"Some changes in feature branch" 
+"Change 3 in branch1" 
